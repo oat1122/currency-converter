@@ -16,4 +16,9 @@
 ### 1. โคลนโปรเจกต์จาก GitHub:
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/oat1122/currency-converter.git
+
+```
+### 2. เปิดไฟล์ index.html บนเว็บเบราว์เซอร์:
+- ลากและวางไฟล์ลงในเว็บเบราว์เซอร์
+- หรือใช้เซิร์ฟเวอร์โลคัล เช่น Live Server บน VS Code
